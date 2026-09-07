@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/shaik-anas-b03a962a8/">
     <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Anas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://anassk-ds.github.io/Portfolio-Website-/">
+  <a href="https://anassk-ds.github.io/Portfolio-Website/">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </p>
