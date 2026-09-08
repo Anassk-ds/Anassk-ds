@@ -520,18 +520,6 @@ https://github.com/Anassk-ds/Summer-Training---2
 
 </div>
 
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Anassk-ds/Anassk-ds/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # 📊 My GitHub Journey
 
 ```text
