@@ -512,20 +512,6 @@ https://github.com/Anassk-ds/Summer-Training---2
 
 </div>
 
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anassk-ds&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anassk-ds&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
