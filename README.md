@@ -580,7 +580,7 @@ I want to continuously improve my technical skills, work with experienced teams,
 <img src="https://img.shields.io/badge/LinkedIn-Shaik%20Anas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://anassk-ds.github.io/Portfolio-Website-/">
+<a href="https://anassk-ds.github.io/Portfolio-Website/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-00C853?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
