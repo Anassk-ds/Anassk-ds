@@ -146,10 +146,9 @@ Python project exploring AI-based policy approval and intelligent application de
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Anassk-ds&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Anassk-ds&theme=green_nur&hide_border=true&ring=32CD32&fire=32CD32&currStreakLabel=228B22&sideLabels=228B22&currStreakNum=228B22&sideNums=228B22&dates=228B22" />
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
